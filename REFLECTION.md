@@ -9,7 +9,7 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[that the multithreading lets a program run multiple tasks at the same time and that threads share resources and need synchronization to avoid issues like race conditions and it did surprised me that each thread can run its own task while still being part of the same program]
+[I learned that multithreading lets a program run many tasks at the same time and threads share data and need control so they do not cause problems and I learned that without proper synchronization the program can act in the wrong way I learned that it is important to avoid shared data issues because they can break the program it surprised me how each thread can do its own job while still being part of one program]
 
 ---
 
@@ -17,7 +17,8 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[The hardest part for me was working with the code and using github and vs code because the steps were confusing and I needed time to understand how everything works together]
+[The hardest part for me was working with the code
+ by using github it was confusing because I was not used to the steps and the program itself and vs code was also hard because i used to use netbeans so i needed time to learn where everything is and how all the tools connect and work together]
 
 ---
 
@@ -25,7 +26,7 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[I overcame the challenge by watching youTube tutorials and following the steps slowly and I also practiced gitHub and vs Code steps with all of my foucs until they made sense to me]
+[I overcame the challenge by watching youTube tutorials to understand the steps better and i followed each step slowly so I would not get lostthen i did practice  githubb until the commands started to make sense I used vs code many times to get used to the layout because it is so different comparing to netbeans so i kept trying with full focus until everything felt easier]
 
 ---
 
@@ -33,9 +34,12 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[multithreading is used in browsers games and mobile apps and they are so useful because they keep interfaces responsive while handling background tasks like loading data or processing actions and i kinda know that way b4 solving this homework because i play a alot of games]
+[multithreading is used in games so the graphics sound and controls work good together
+and for mobile apps it help them stay fast while handling background tasks like 
+loading data i kinda know that b4 solving this homework because i play 
+alot of games that uses threads ]
 
----
+--
 
 ## Additional Reflections (Optional)
 
