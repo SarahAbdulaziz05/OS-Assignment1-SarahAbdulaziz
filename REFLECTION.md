@@ -9,7 +9,7 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Write your answer here. Discuss specific concepts like thread creation, thread states, how threads execute concurrently, what surprised you, etc.]
+[I learned that multithreading lets a program run many tasks at the same time and threads share data and need control so they do not cause problems and I learned that without proper synchronization the program can act in the wrong way I learned that it is important to avoid shared data issues because they can break the program it surprised me how each thread can do its own job while still being part of one program]
 
 ---
 
@@ -17,7 +17,8 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Describe the specific challenge. Was it understanding the code? Implementing a feature? Using Git? Explain what made it difficult and how it relates to the course concepts.]
+[The hardest part for me was working with the code
+ by using github it was confusing because I was not used to the steps and the program itself and vs code was also hard because i used to use netbeans so i needed time to learn where everything is and how all the tools connect and work together]
 
 ---
 
@@ -25,7 +26,7 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Describe your problem-solving approach. Did you read documentation? Ask for help? Debug systematically? What resources did you use? What strategies worked?]
+[I overcame the challenge by watching youTube tutorials to understand the steps better and i followed each step slowly so I would not get lostthen i did practice  githubb until the commands started to make sense I used vs code many times to get used to the layout because it is so different comparing to netbeans so i kept trying with full focus until everything felt easier]
 
 ---
 
@@ -33,9 +34,12 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Give specific examples from real applications you use (web browsers, games, mobile apps, etc.). Explain why threads are useful in those scenarios. Connect to what you learned in this assignment.]
+[multithreading is used in games so the graphics sound and controls work good together
+and for mobile apps it help them stay fast while handling background tasks like 
+loading data i kinda know that b4 solving this homework because i play 
+alot of games that uses threads ]
 
----
+--
 
 ## Additional Reflections (Optional)
 
