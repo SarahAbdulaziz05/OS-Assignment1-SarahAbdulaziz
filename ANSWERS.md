@@ -25,11 +25,16 @@ Answer all 4 questions with detailed explanations. Each answer should be **3-5 s
 
 Example from my output:
 ```
-[Paste a relevant snippet from your program output here showing a process being re-queued]
+[Paste ? P1 executing quantum [4000ms] 
+ ? Quantum progress: [███████████████] 100% 
+ ? P1 completed quantum 4000ms │ Overall progress: [███████████████████░] 99% 
+    Remaining time: 31ms 
+ ? P1 yields CPU for context switch 
+ ? P1(priority:2) added to ready queuea relevant snippet from your program output here showing a process being re-queued]
 ```
 
 **Explanation of example:**
-[Explain what's happening in the output snippet you pasted]
+[in this part we can see that P1 ran for its time quantum but it did not finish completely because there was still a small remaining time which is 31ms so instead of finishing the process stopped and gave the cpu to another process and then it was placed again in the ready queue this means it will wait for its turn again and continue later until it finishes, and this is how the round robin system keeps switching between processes]
 
 ---
 
