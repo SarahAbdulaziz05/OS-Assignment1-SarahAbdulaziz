@@ -71,7 +71,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 4 - [Date and Time]
+### Entry 4 - [march 29,2026,3am]
 **What I did**:Today I worked on Feature 3 which is calculating the waiting time for each process and displaying a summary at the end
 
 **Details**:I did added variables to track the waiting time and created methods I also added a method to display the waiting time for all processes and calculate the average for them
@@ -84,16 +84,17 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**: 
+### Entry 5 - [march 30,2026,4am]
+**What I did**: Today I finished the projectte sted all features and recorded the explaining video
 
-**Details**: 
+**Details**:I ran the program multiple times to verify the output I also recorded a short video explaining the features and showing the execution of the code
 
-**Challenges**: 
 
-**Solution**: 
+**Challenges**: I faced small issues while recording such as making sure everything is clear and visibale and my mic was not working well 
 
-**Time spent**: 
+**Solution**: I rerun the program and adjusted the recording and i changed my mic so everything looked clear and correct
+
+**Time spent**: 1,5 hour 
 
 ---
 
