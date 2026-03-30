@@ -11,7 +11,7 @@ Answer all 4 questions with detailed explanations. Each answer should be **3-5 s
 
 **Your Answer:**
 
-[Write your answer here. Consider: What is a process? What is a thread? How do they differ in terms of memory, resources, creation overhead? Why are threads more suitable for this simulation?]
+[a process is like a full program that runs in the system and it has its own memory and resources while a thread is a smaller part inside the process and shares the same memory with other threads the difference is that processes are heavier and take more time to create while threads are lighter and faster because they share resources with each other in this assignment i used threads instead of processes because it is easier and faster to simulate the scheduling and switching between processes without using too many system resources also threads make it easier to manage multiple tasks in the same program and that is exactly what we needed in this simulation]
 
 ---
 
@@ -21,7 +21,7 @@ Answer all 4 questions with detailed explanations. Each answer should be **3-5 s
 
 **Your Answer:**
 
-[Write your answer here. Describe the specific behavior - where does the process go? When does it run again? Give an example from your actual program output showing a process that was re-queued.]
+[in round robin scheduling if a process does not finish within its time quantum it will stop and go back to the ready queue so it can wait for its turn again this means the process will not complete immediately but it will run again later when it reaches the front of the queue]
 
 Example from my output:
 ```
@@ -41,15 +41,15 @@ Example from my output:
 
 [Write your answer here. For each state, explain when P1 enters that state during the simulation. Use your understanding of the code to trace through the lifecycle.]
 
-1. **New**: [When is P1 in New state?]
+1. **New**: [when the process is created but the thread has not started yet it is in the new state]
 
-2. **Runnable**: [When does P1 become Runnable?]
+2. **Runnable**: [after the thread is created and added to the ready queue it becomes runnable and waits for the cpu]
 
-3. **Running**: [When is P1 Running?]
+3. **Running**: [when the scheduler picks the thread and it starts executing the run method it is in the running state]
 
-4. **Waiting**: [When/why would P1 be Waiting?]
+4. **Waiting**: [when the thread is paused or waiting for its next turn after the time quantum it goes into waiting state until it can run again]
 
-5. **Terminated**: [When is P1 Terminated?]
+5. **Terminated**: [when the process finishes all its execution and remaining time becomes zero the thread is terminated and will not run again]
 
 ---
 
@@ -59,31 +59,31 @@ Example from my output:
 
 **Your Answer:**
 
-### Example 1: [Name of application/scenario]
+### Example 1: [online multiplayer games]
 
 **Description**: 
-[Describe the real-world scenario or application]
+[in online games there are many players connected at the same time and the system needs to update each player actions like movement and shooting continuously]
 
 **Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
+[round robin helps by giving each player a small time to update their actions so no player gets delayed and the game feels smooth and fair for everyone]
 
-### Example 2: [Name of application/scenario]
+### Example 2: [printing system in university labs]
 
 **Description**: 
-[Describe the real-world scenario or application]
+[in computer labs many students send print jobs to the same printer and each job needs to be processed]
 
 **Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
+[round robin allows each print job to be processed for a short time then moves to the next job so no one waits too long and all students get fair access to the printer]
 
 ---
 
 ## Summary
 
 **Key concepts I understood through these questions:**
-1. 
-2. 
-3. 
+1.I realized how threads are more practical than processes in this kind of simulation because they are lighter and share resources
+2.I understood how round robin actually keeps the system fair by giving each process a chance instead of letting one process take all the time
+3.I have got a better idea about how a thread moves step by step from creation until it finishes execution
 
 **Concepts I need to study more:**
-1. 
-2. 
+1. I still feel I need more practice with calculating waiting time and understanding more in depth 
+2. I want to explore more scheduling techniques and see how they are different from round robin in real systems
