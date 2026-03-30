@@ -61,7 +61,7 @@ Document your development process as you work on the assignment. Add entries sho
 ### Entry 3 - [march 28,2026,10pm]
 **What I did**: today i worked on feature 2 which is about counting the context switches during the execution of the processes
 
-**Details**: I added a variable to count the number of context switches and updated it every time a new process starts runningt then i printed the total number at the end of the program
+**Details**: I added a variable to count the number of context switches and updated it every time a new process starts running then i printed the total number at the end of the program
 
 **Challenges**: I was not sure where exactly to place the counter increment and at first it was not giving the correct value unfortunately
 
@@ -85,16 +85,16 @@ Document your development process as you work on the assignment. Add entries sho
 ---
 
 ### Entry 5 - [march 30,2026,4am]
-**What I did**: Today I finished the projectte sted all features and recorded the explaining video
+**What I did**: Today I finished the project and tested all features and recorded the explaining video
 
 **Details**:I ran the program multiple times to verify the output I also recorded a short video explaining the features and showing the execution of the code
 
 
-**Challenges**: I faced small issues while recording such as making sure everything is clear and visibale and my mic was not working well 
+**Challenges**: I faced small issues while recording such as making sure everything is clear and visible and my mic was not working well 
 
 **Solution**: I rerun the program and adjusted the recording and i changed my mic so everything looked clear and correct
 
-**Time spent**: 1,5 hour 
+**Time spent**: 1.5 hour 
 
 ---
 
