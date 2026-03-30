@@ -32,16 +32,16 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
+### Entry 1 - [march 26, 2026, 11 PM]
+**What I did**: today i started working on this project, tried to understand the assigment so i intsalled visual studio code and i signed in at github for the project 
 
-**Details**: 
+**Details**: i looked at the given code and tried to run it and understand it i also learned how to open the project in visual stuido 
 
-**Challenges**: 
+**Challenges**: i had difficulties dealing with both vc stuido and github because i am not familiar with them and i did not know how to run the code on the github into vc studio 
 
-**Solution**: 
+**Solution**: i watched a youtube tutorial to understand how to deal with both applications 
 
-**Time spent**: 
+**Time spent**: around 2 hours
 
 ---
 
