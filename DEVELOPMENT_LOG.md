@@ -58,16 +58,16 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**: 
+### Entry 3 - [march 28,2026,10pm]
+**What I did**: today i worked on feature 2 which is about counting the context switches during the execution of the processes
 
-**Details**: 
+**Details**: I added a variable to count the number of context switches and updated it every time a new process starts runningt then i printed the total number at the end of the program
 
-**Challenges**: 
+**Challenges**: I was not sure where exactly to place the counter increment and at first it was not giving the correct value unfortunately
 
-**Solution**: 
+**Solution**: I tested different positions inside the loop and checked the output until the counter worked finally 
 
-**Time spent**: 
+**Time spent**: 2.5 hours
 
 ---
 
