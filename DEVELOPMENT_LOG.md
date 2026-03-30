@@ -72,15 +72,15 @@ Document your development process as you work on the assignment. Add entries sho
 ---
 
 ### Entry 4 - [Date and Time]
-**What I did**: 
+**What I did**:Today I worked on Feature 3 which is calculating the waiting time for each process and displaying a summary at the end
 
-**Details**: 
+**Details**:I did added variables to track the waiting time and created methods I also added a method to display the waiting time for all processes and calculate the average for them
 
-**Challenges**: 
+**Challenges**: it was the hardest feature to do for me because I had some issues with variable names and at first the waiting time was not calculated correctly
 
-**Solution**: 
+**Solution**: I fixed the variable names and with my all focus i checked the logic then tested the program multiple times until the output was correct
 
-**Time spent**: 
+**Time spent**: 2hours
 
 ---
 
