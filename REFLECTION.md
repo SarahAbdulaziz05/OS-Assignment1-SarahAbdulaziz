@@ -9,7 +9,7 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Write your answer here. Discuss specific concepts like thread creation, thread states, how threads execute concurrently, what surprised you, etc.]
+[that the multithreading lets a program run multiple tasks at the same time and that threads share resources and need synchronization to avoid issues like race conditions and it did surprised me that each thread can run its own task while still being part of the same program]
 
 ---
 
@@ -17,7 +17,7 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Describe the specific challenge. Was it understanding the code? Implementing a feature? Using Git? Explain what made it difficult and how it relates to the course concepts.]
+[The hardest part for me was working with the code and using github and vs code because the steps were confusing and I needed time to understand how everything works together]
 
 ---
 
@@ -25,7 +25,7 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Describe your problem-solving approach. Did you read documentation? Ask for help? Debug systematically? What resources did you use? What strategies worked?]
+[I overcame the challenge by watching youTube tutorials and following the steps slowly and I also practiced gitHub and vs Code steps with all of my foucs until they made sense to me]
 
 ---
 
@@ -33,7 +33,7 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Give specific examples from real applications you use (web browsers, games, mobile apps, etc.). Explain why threads are useful in those scenarios. Connect to what you learned in this assignment.]
+[multithreading is used in browsers games and mobile apps and they are so useful because they keep interfaces responsive while handling background tasks like loading data or processing actions and i kinda know that way b4 solving this homework because i play a alot of games]
 
 ---
 
