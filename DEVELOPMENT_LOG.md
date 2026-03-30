@@ -32,7 +32,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [march 26, 2026, 11 PM]
+### Entry 1 - [march 26, 2026, 8 PM]
 **What I did**: today i started working on this project, tried to understand the assigment so i intsalled visual studio code and i signed in at github for the project 
 
 **Details**: i looked at the given code and tried to run it and understand it i also learned how to open the project in visual stuido 
@@ -45,16 +45,16 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 2 - [Date and Time]
-**What I did**: 
+### Entry 2 - [march 27, 2026, 3am]
+**What I did**: i worked on feature 1 which is adding a priority to each process so i modified the process class and added new var for it
 
-**Details**: 
+**Details**: i updated the constructor to include priority and i added a geter method then i edited the output so its can appear when processes are added to the ready queue
 
-**Challenges**: 
+**Challenges**:i did have some confusion about how to pass the priority value to the constructor and it it will print correctly 
 
-**Solution**: 
+**Solution**: i reviewd the constructor parameter so many times to make sure itn on the correct place and also running the code until it worked
 
-**Time spent**: 
+**Time spent**: about 3 hours
 
 ---
 
